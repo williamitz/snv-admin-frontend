@@ -1,0 +1,121 @@
+{
+  "HEADER": {
+    "MORE": {
+      "TEXT": "More"
+    }
+  },
+  "MENUITEMS": {
+
+    "DASHBOARD": {
+      "TEXT": "Dashboard",
+      "BADGE": "New"
+    },
+
+    "CLIENTS": {
+      "TEXT": "Clients"
+    },
+    "INTERPRETERS": {
+      "TEXT": "Interpreters",
+      "LIST": {
+        "MY-PROFILE": "My Profile"
+      }
+    },
+    "CALLS": {
+      "TEXT": "Calls"
+    },
+    "CONNECTNOW": {
+      "TEXT": "Connect Now"
+    },
+
+    "SCHEDULEINTERPRETER": {
+      "TEXT": "Schedule Interpreter",
+      "LIST": {
+        "SCHEDULEINTERPRETERACTIVITY": "Schedule Interpreter Activity",
+        "NEWASSIGNMENT": "New Assignment",
+        "ONSITEINTERPRETER":"On-site Interpreter"
+      }
+    },
+    "POOLINTERPRETER": {
+      "TEXT": "Interpreter On-Demand",
+      "LIST": {
+        "POOLADDINTERPRETER": "Add Interpreter",
+        "POOLACTIVITYINTERPRETER": "Activity"
+      }
+    },
+
+    "CALLREPORT": {
+      "TEXT": "Call Reports",
+      "LIST": {
+        "OPICALLDETAIL": "OPI Call Detail",
+        "VRICALLDETAIL": "VRI Call Detail",
+        "ASLCALLDETAIL": "ASL Call Detail"
+      }
+    },
+
+    "CUSTOMERS": {
+      "TEXT": "Customers"
+    },
+
+    "AGENCY": {
+      "TEXT": "Agency"
+    },
+    "BILLINGS": {
+      "TEXT": "Billings"
+    },
+    "BILLINGSINTERPRETER": {
+      "TEXT": "Interpreter Billings"
+    },
+
+    "CONFIGURATION": {
+      "TEXT": "Configuration",
+      "LIST": {
+        "QUICKBOOK": "Quickbooks",
+        "CALLQUEUES": "Call Queues",
+        "PROFILEACCOUNT": "Profile Account"
+      }
+    },
+    "INTERPRETERPORTAL": {
+      "TEXT": "Interpreter Portal"
+    },
+    "MYASSIGNMENT": {
+      "TEXT": "My Assignments"
+    },
+    "CALLHISTORY": {
+      "TEXT": "Call History"
+    },
+
+    "PAGES": {
+      "TEXT": "Pages"
+    },
+    "LANDING": {
+      "TEXT": "Landing",
+      "LIST": {
+        "ONEPAGE": "One Page",
+        "NFTLANDING": "NFT Landing",
+        "JOB":"Job"
+      }
+    },
+    "COMPONENTS": {
+      "TEXT": "Components"
+    },
+    "WIDGETS": {
+      "TEXT": "Widgets"
+    },
+
+
+    "SEGURITY": {
+      "TEXT": "Segurity",
+      "LIST": {
+        "ROLE": "Roles",
+        "USER": "Users",
+        "MENU": "Menu system"
+      }
+    },
+    "ADMIN": {
+      "TEXT": "Admin",
+      "LIST": {
+        "AGENCY": "Agencies"
+      }
+    }
+  }
+}
